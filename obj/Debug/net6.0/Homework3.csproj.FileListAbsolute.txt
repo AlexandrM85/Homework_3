@@ -1,0 +1,15 @@
+C:\Разное\Обучение\Семинары С#\Homework3\bin\Debug\net6.0\Homework3.exe
+C:\Разное\Обучение\Семинары С#\Homework3\bin\Debug\net6.0\Homework3.deps.json
+C:\Разное\Обучение\Семинары С#\Homework3\bin\Debug\net6.0\Homework3.runtimeconfig.json
+C:\Разное\Обучение\Семинары С#\Homework3\bin\Debug\net6.0\Homework3.dll
+C:\Разное\Обучение\Семинары С#\Homework3\bin\Debug\net6.0\Homework3.pdb
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.csproj.AssemblyReference.cache
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfoInputs.cache
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfo.cs
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.dll
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\refint\Homework3.dll
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.pdb
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\Homework3.genruntimeconfig.cache
+C:\Разное\Обучение\Семинары С#\Homework3\obj\Debug\net6.0\ref\Homework3.dll
